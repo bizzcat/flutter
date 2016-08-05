@@ -25,8 +25,8 @@
           <h3>Your very own Flut</h3>
           <h5>
             <input style="text" class="input-username" name="user_name" placeholder="Your user name"><br>
-            <textarea style="text" name="flut_text" placeholder="Flit flut flat..."></textarea><br>
-            <input type="submit" class="input-text" value="STRUT IT">
+            <textarea style="text" class="input-text" name="flut_text" placeholder="Flit flut flat..."></textarea><br>
+            <input type="submit" value="STRUT IT">
           </h5>
         </form>
       </section>
@@ -36,7 +36,7 @@
           {% csrf_token %}
           <h3>Find-a-Flut</h3>
           <h5>
-            <textarea style="text" name="search_text" placeholder="Ohhhh flitter where'st did thou flutter off to?"></textarea><br>
+            <textarea style="text" class="input-text" name="search_text" placeholder="Ohhhh flitter where'st did thou flutter off to?"></textarea><br>
             <input type="submit" value="FIND">
           </h5>
         </form>

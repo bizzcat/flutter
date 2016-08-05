@@ -51,7 +51,7 @@ textarea {
   margin: 4px 0px;
 }
 
-input, textarea {
+textarea, .input-username {
   /*margin-top: 10px;
   margin-left: 50px;
   width: 500px;
@@ -82,12 +82,13 @@ textarea:focus {
 }
 
 .input-username {
-  width: 40%;
+  width: 45%;
   height: 20%;
 }
+
 .input-text {
-  width: 80%;
-  height: 40%;
+  width: 90%;
+  height: 50%;
 }
 
 .footer-div {
