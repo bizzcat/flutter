@@ -107,3 +107,7 @@ textarea:focus, .input-username:focus {
 #welcome {
   font-size: 4em;
 }
+
+#find-flut {
+  height: 70%;
+}
