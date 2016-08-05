@@ -30,7 +30,7 @@ div {
   margin: 25px 25%;
   padding: 5px;
   border: 3.5px rgba(150, 30, 5, 0.3);
-  border-style: solid none;
+  border-style: solid none none none;
   border-radius: 30px;
 }
 
@@ -106,7 +106,6 @@ textarea:focus, .input-username:focus {
 }
 
 .footer-div {
-  border: none;
   flex-direction: row;
   justify-content: center;
 }
