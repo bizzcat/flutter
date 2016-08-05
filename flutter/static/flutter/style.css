@@ -65,3 +65,8 @@ textarea {
   margin-left: 10px;
   width: 40%;
 }
+
+
+#welcome {
+  font-size: 4em;
+}
