@@ -87,7 +87,7 @@ textarea:focus, .input-username:focus {
 }
 
 .input-text {
-  width: 90%;
+  width: 91%;
   height: 50%;
 }
 
@@ -109,5 +109,6 @@ textarea:focus, .input-username:focus {
 }
 
 #find-flut {
+  width: 91%;
   height: 70%;
 }
