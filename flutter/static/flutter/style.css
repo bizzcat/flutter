@@ -76,7 +76,7 @@ textarea, .input-username {
 }
 
 
-textarea:focus {
+textarea:focus, .input-username:focus {
     background: none repeat scroll 0 0 #FFFFFF;
     outline-width: 0;
 }
